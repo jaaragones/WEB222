@@ -1,0 +1,41 @@
+h1 {
+    color:rgb(65, 196, 236);
+    font-size: 70px;
+    font-style: oblique;
+    margin: 0px;
+    background-color:black;
+    text-align: center;
+}
+
+h2{
+    color: rgb(117, 199, 247);
+    font-size: 40px;
+    margin-bottom: 2px;
+    margin-top: 0%;
+
+}
+
+
+p{
+    color: rgb(10, 9, 9);
+    font-size: 40px;
+    margin-bottom: 0%;
+    margin-top: 2%;
+}
+
+.img-Ajooong{
+    width: 459px;
+}
+
+.game{
+    margin: 0%;
+    background-color: black;
+    font-size: 20px;
+    color: burlywood;
+}
+
+button{
+    color: aqua;
+    font-size: 30px;
+
+}
